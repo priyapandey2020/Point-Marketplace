@@ -63,3 +63,12 @@ a:visited{
   background: #99d0ee;
   color: black;
 }
+
+.detailContainer{
+  width: 500px;
+  padding: 120px;
+  margin-top: 150px;
+  margin-left: 260px;
+  align-content: center;
+  border: 1px solid black;
+}
